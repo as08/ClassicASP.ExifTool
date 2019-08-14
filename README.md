@@ -14,7 +14,7 @@ E.g: v4.0.30319
 Navigate to the CRL folder
 E.g: C:\Windows\Microsoft.NET\Framework64\v4.0.30319
 	
-Copy over: ClassicASP.ExifTool.dll and exiftool.exe
+Copy over: "ClassicASP.ExifTool.dll" and "exiftool.exe"
 	
 Run CMD as administrator
 
