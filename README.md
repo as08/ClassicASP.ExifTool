@@ -1,4 +1,4 @@
-This is a Component Object Model (COM) Dynamic-link library (DLL) coded in C# that can be set in Classic ASP using VBscripts "CreateObject" method and allows you to analyse files of any type using ExifTool. The file information and meta data is returned as a JSON string.
+This is a Component Object Model (COM) Dynamic-link library (DLL) coded in C# that can be set in Classic ASP using VBscripts "CreateObject" method and allows you to analyse files of any type using ExifTool. The file information and meta data are returned as a JSON string.
 
 ExifTool by Phil Harvey:
 https://www.sno.phy.queensu.ca/~phil/exiftool/
